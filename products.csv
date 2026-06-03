@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,UnitCost,UnitPrice
+1,Coffee Table,Home,94.55,140.15
+2,Jeans,Clothing,9.01,388.26
+3,Hoodie,Clothing,40.46,81.53
+4,Hoodie,Clothing,107.33,178.46
+5,Keyboard,Electronics,124.31,64.4
+6,Jacket,Clothing,76.44,187.87
+7,Coffee Table,Home,79.58,393.46
+8,Keyboard,Electronics,172.69,275.32
+9,Monitor,Electronics,190.03,386.6
+10,Office Chair,Office,64.4,48.09
+11,Jacket,Clothing,90.83,57.59
+12,Keyboard,Electronics,182.32,110.92
+13,Jacket,Clothing,65.78,212.83
+14,Stapler,Office,41.05,388.14
+15,Stapler,Office,188.2,358.98
+16,Whiteboard,Office,43.22,27.64
+17,Sweatpants,Clothing,80.79,115.83
+18,Monitor,Electronics,193.22,246.74
+19,Laptop,Electronics,62.77,74.45
+20,Laptop,Electronics,155.59,87.5
+21,Jeans,Clothing,43.77,287.42
+22,Lamp,Home,123.16,371.26
+23,Desk,Office,183.42,341.52
+24,Hoodie,Clothing,23.6,154.62
+25,Printer,Office,147.27,258.65
+26,Coffee Table,Home,97.08,56.64
+27,Notebook,Office,153.35,228.9
+28,Coffee Table,Home,106.93,176.74
+29,Stapler,Office,26.04,22.26
+30,Lamp,Home,66.3,208.34
+31,Printer,Office,53.61,170.05
+32,Curtains,Home,49.62,40.02
+33,Coffee Table,Home,36.44,372.58
+34,Headphones,Electronics,128.51,349.87
+35,Jacket,Clothing,41.38,358.1
+36,Bookshelf,Home,28.81,148.96
+37,Desk,Office,58.07,262.6
+38,Mouse,Electronics,73.75,128.86
+39,Notebook,Office,86.4,96.62
+40,Bookshelf,Home,70.83,377.73
+41,Desk,Office,83.75,35.31
+42,Stapler,Office,53.14,281.56
+43,Lamp,Home,33.88,399.12
+44,Lamp,Home,195.44,170.3
+45,Curtains,Home,72.29,257.4
+46,Office Chair,Office,108.53,184.64
+47,Stapler,Office,20.77,154.17
+48,Headphones,Electronics,76.72,256.6
+49,Whiteboard,Office,109.48,45.21
+50,Laptop,Electronics,67.55,82.74
+51,Keyboard,Electronics,120.22,274.25
+52,Bookshelf,Home,104.86,98.33
+53,Jacket,Clothing,188.4,165.05
+54,Bookshelf,Home,168.35,273.52
+55,Laptop,Electronics,45.77,221.16
+56,Notebook,Office,49.57,78.23
+57,T-Shirt,Clothing,105.74,111.72
+58,Headphones,Electronics,179.96,361.16
+59,Lamp,Home,59.38,283.14
+60,Jeans,Clothing,171.98,167.76
+61,Mouse,Electronics,21.41,73.04
+62,Stapler,Office,118.23,155.19
+63,Keyboard,Electronics,194.86,120.73
+64,Office Chair,Office,99.69,184.89
+65,Laptop,Electronics,39.31,17.05
+66,Printer,Office,39.87,152.92
+67,Jeans,Clothing,133.23,231.64
+68,Jeans,Clothing,76.7,113.43
+69,Whiteboard,Office,194.74,163.31
+70,Notebook,Office,89.71,146.53
+71,Mouse,Electronics,135.44,347.03
+72,Sweatpants,Clothing,102.34,233.08
+73,T-Shirt,Clothing,13.5,397.87
+74,Printer,Office,59.51,354.56
+75,T-Shirt,Clothing,190.85,138.99
+76,Printer,Office,116.6,392.33
+77,Sweatpants,Clothing,80.09,341.94
+78,Jeans,Clothing,38.05,227.15
+79,Bookshelf,Home,186.35,37.46
+80,Whiteboard,Office,74.94,109.12
+81,Office Chair,Office,67.9,340.98
+82,Keyboard,Electronics,143.24,225.6
+83,Office Chair,Office,162.97,348.16
+84,Mouse,Electronics,104.71,205.59
+85,Mouse,Electronics,131.74,283.77
+86,Jacket,Clothing,177.89,20.77
+87,Office Chair,Office,90.5,272.09
+88,Lamp,Home,35.23,392.92
+89,Office Chair,Office,172.78,107.6
+90,Whiteboard,Office,64.14,219.46
+91,Laptop,Electronics,166.43,115.9
+92,Sweatpants,Clothing,94.17,338.39
+93,Jacket,Clothing,85.21,282.81
+94,Jacket,Clothing,30.89,388.12
+95,Whiteboard,Office,13.01,165.54
+96,Storage Bin,Home,150.09,107.84
+97,Printer,Office,20.77,177.04
+98,Sweatpants,Clothing,16.35,366.93
+99,Bookshelf,Home,51.76,46.61
+100,Webcam,Electronics,59.59,382.4
